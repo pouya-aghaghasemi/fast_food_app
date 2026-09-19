@@ -31,9 +31,6 @@ The product data is then used to display information such as product images and 
 
 ![Home](screenshots/home.png)
 
-### Product Details
-
-![Product Details](screenshots/product-details.png)
 
 ### Cart
 
