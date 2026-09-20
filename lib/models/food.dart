@@ -50,7 +50,7 @@ class Food {
       imageURL: 'assets/images/egg.png',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -63,7 +63,7 @@ class Food {
       imageURL: 'assets/images/mushroom_meet.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -76,7 +76,7 @@ class Food {
       imageURL: 'assets/images/kebab.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -89,7 +89,7 @@ class Food {
       imageURL: 'assets/images/straw.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -102,7 +102,7 @@ class Food {
       imageURL: 'assets/images/chocklat_Cake.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -115,7 +115,7 @@ class Food {
       imageURL: 'assets/images/pizaa.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -128,7 +128,7 @@ class Food {
       imageURL: 'assets/images/burger.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -141,7 +141,7 @@ class Food {
       imageURL: 'assets/images/malt.jpg',
       isFavorite: false,
       description:
-          'این گیاه یکی از بهترین گیاهان است. در بیشتر مناطق جهان رشد می کند و می تواند حتی در سخت ترین شرایط آب و هوایی نیز زنده بماند.',
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
     Food(
@@ -153,7 +153,8 @@ class Food {
       rating: 0.0,
       imageURL: 'assets/images/water.jpg',
       isFavorite: false,
-      description: 'kossherr',
+      description:
+          'A delicious meal made with fresh ingredients and rich flavors, perfect for a satisfying experience.',
       isSelected: false,
     ),
   ];
