@@ -40,6 +40,10 @@ The product data is then used to display information such as product images and 
 
 ![Favorites](screenshots/favorites.png)
 
+### Detail
+
+![Detail](screenshots/detail.png)
+
 ### Profile
 
 ![Profile](screenshots/profile.png)
