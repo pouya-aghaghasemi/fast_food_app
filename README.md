@@ -47,3 +47,10 @@ The product data is then used to display information such as product images and 
 ### Profile
 
 ![Profile](screenshots/profile.png)
+
+
+## 👨‍💻 Author
+
+**Pouya Aghaghasemi**
+
+[GitHub Profile](https://github.com/pouya-aghaghasemi)
